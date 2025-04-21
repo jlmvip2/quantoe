@@ -14,4 +14,4 @@ O **QuantoÉ?** é um website brasileiro que ajuda as pessoas a saberem quanto i
 ### Autores e Acesso Online
 
 [Autor](https://www.github.com/jlmvip2)  
-Acesse o [website aqui](https://jlmvip.github.io/quantoe/)
+Acesse o [website aqui](https://jlmvip2.github.io/quantoe/)
